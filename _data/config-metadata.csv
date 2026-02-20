@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 description,Description,
-subject,Themes,true
+subject,Themes,true,
 language, Language,
 genre, Genre, true,
 duration, Duration
